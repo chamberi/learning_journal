@@ -53,7 +53,7 @@ each element is a node.
 <li id=“two” class=“hot”>pine nuts</li>  
 use IDs to access these elements.  
 
-<script> tag should be the very last item of your <body>  
+< script > tag should be the very last item of your <body>  
 
 http://codepen.io/  
 
